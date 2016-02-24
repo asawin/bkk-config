@@ -1,6 +1,7 @@
 ---
 lucky-word: Irish
 
+---
 spring:
   profiles: northamerica
 lucky-word: North America
